@@ -1,0 +1,29 @@
+_repo: Studies-of-childhood_62175
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sully, James
+    birthdate: 1842
+    deathdate: 1923
+    gutenberg_agent_id: '7616'
+    url: http://www.gutenberg.org/2009/agents/7616
+    wikipedia: https://en.wikipedia.org/wiki/James_Sully
+description: ''
+gutenberg_issued: '2020-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Child development'
+- !lcc 'LB'
+- GITenberg
+tableOfContents: Introductory -- The age of imagination -- The dawn of reason -- Products
+  of child-thought -- The little linguist -- Subject to fear -- Raw material of morality
+  -- Under law -- The child as artist -- The young draughtsman -- Extracts from a
+  father's diary -- George Sand's childhood -- Bibliography.
+title: Studies of childhood
+url: http://www.gutenberg.org/ebooks/62175
